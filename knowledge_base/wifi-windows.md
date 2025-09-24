@@ -93,11 +93,4 @@ If a Windows 10/11 device cannot connect to Wi-Fi, follow these steps to check a
 
 * Restore VPN settings if disabled.
 
-
-## Related Articles / Links
-
-* [Troubleshooting DHCP issues — Windows]
-
-* [How to reset a Windows network adapter]
-
-* [Configuring VPN connections in Windows]
+---
